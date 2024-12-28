@@ -19,7 +19,7 @@ Este projeto é um jogo da cobrinha simples implementado em Python utilizando a 
 
 ### 📁 Acesso ao projeto
 
-Para acessar o código do projeto, faça o download do arquivo **pysnake.py** e siga as instruções abaixo para executá-lo.
+Para acessar o código do projeto, faça o download do arquivo [**pysnake.py**](https://github.com/arthmp/PySnake/blob/main/pysnake.py)  e siga as instruções abaixo para executá-lo.
 
 ---
 
