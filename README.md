@@ -5,6 +5,12 @@
 Este projeto é um jogo da cobrinha simples implementado em Python utilizando a biblioteca `curses`. Ele foi criado com o objetivo de praticar conceitos fundamentais de programação.
 ---
 
+### 🎥 Vídeo de Exemplo
+
+https://github.com/user-attachments/assets/7f47106d-d5a7-4ad4-ab71-d26552448ad7
+
+---
+
 ### 🔨 Funcionalidades do projeto
 
 - **Movimentação da Cobrinha**: Controle a cobrinha usando as setas do teclado para coletar frutas e aumentar seu tamanho.
