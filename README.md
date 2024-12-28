@@ -7,7 +7,7 @@ Este projeto é um jogo da cobrinha simples implementado em Python utilizando a 
 
 ### 🎥 Vídeo de Exemplo
 
-https://github.com/user-attachments/assets/7f47106d-d5a7-4ad4-ab71-d26552448ad7
+https://github.com/user-attachments/assets/a2b55b18-6b89-4529-8e52-e8a65d113db6
 
 ---
 
